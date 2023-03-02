@@ -1,7 +1,7 @@
 ## Olá, eu sou a Carol Tatto :)
 
 - 🔭 I’m currently working on Graphic Design
-- 🌱 I’m currently learning CSS, Javascript
+- 🌱 I’m currently learning JavaScript
 - 🤔 I’m trying to find out what life is all about
 - 💬 Ask me about Graphic Design and Autism
 - 📫 How to reach me: ferollinedesign@gmail.com
